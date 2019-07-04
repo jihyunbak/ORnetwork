@@ -235,7 +235,7 @@ colormap(gca,[1 1 1; mycmap_by_g2])
 set(gca,'ydir','normal')
 
 
-%% plotting all together: reproducing Fig 5 in the manuscript
+%% plotting all together: reproducing Fig 4 in the manuscript
 
 
 % ===== prepare for odorant plotting
